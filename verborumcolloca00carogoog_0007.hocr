@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./verborumcolloca00carogoog_0007.png"; bbox 0 0 4117 5234; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 624 1593 1259 1708">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 624 1593 1259 1708">
+     <span class='ocr_line' id='line_1_1' title="bbox 624 1593 1259 1708; baseline -0.002 -1"><span class='ocrx_word' id='word_1_1' title='bbox 624 1594 862 1708; x_wconf 85' lang='lat' dir='ltr'>IOANNI</span> <span class='ocrx_word' id='word_1_2' title='bbox 910 1593 1259 1708; x_wconf 77' lang='lat' dir='ltr'>CLASSENO</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 497 1992 1385 2108">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 497 1992 1385 2108">
+     <span class='ocr_line' id='line_1_2' title="bbox 497 1992 1385 2108; baseline -0.002 -1"><span class='ocrx_word' id='word_1_3' title='bbox 497 1995 839 2108; x_wconf 81' lang='lat' dir='ltr'><strong>ALFREDO</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 887 1992 1385 2108; x_wconf 77' lang='lat' dir='ltr'><strong>FLECKEISENO</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 682 2439 1205 2529">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 682 2439 1205 2529">
+     <span class='ocr_line' id='line_1_3' title="bbox 682 2439 1205 2529; baseline -0.002 -2"><span class='ocrx_word' id='word_1_5' title='bbox 682 2441 815 2527; x_wconf 86' lang='lat' dir='ltr'>VIRIS</span> <span class='ocrx_word' id='word_1_6' title='bbox 848 2439 1205 2529; x_wconf 83' lang='lat' dir='ltr'>HUMANISSIMIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 588 2857 1297 2925">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 588 2857 1297 2925">
+     <span class='ocr_line' id='line_1_4' title="bbox 588 2857 1297 2925; baseline -0.001 -1"><span class='ocrx_word' id='word_1_7' title='bbox 588 2857 853 2925; x_wconf 82' lang='lat' dir='ltr'>COLENDIS</span> <span class='ocrx_word' id='word_1_8' title='bbox 889 2857 971 2924; x_wconf 80' lang='lat' dir='ltr'>PIE</span> <span class='ocrx_word' id='word_1_9' title='bbox 1007 2858 1072 2923; x_wconf 87' lang='grc' dir='ltr'>ΕΤ</span> <span class='ocrx_word' id='word_1_10' title='bbox 1110 2857 1297 2925; x_wconf 82' lang='lat' dir='ltr'>CULTIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 2064 5234">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 2064 5234">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 2064 5234; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 2064 5234; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

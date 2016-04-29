@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./verborumcolloca00carogoog_0008.png"; bbox 0 0 4117 5234; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 757 3944 1396 3983">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 757 3944 1396 3983">
+     <span class='ocr_line' id='line_1_1' title="bbox 757 3944 1396 3983; baseline 0.002 -4"><span class='ocrx_word' id='word_1_1' title='bbox 757 3945 878 3981; x_wconf 70' lang='lat' dir='ltr'>BEROLINI</span> <span class='ocrx_word' id='word_1_2' title='bbox 893 3946 966 3982; x_wconf 78' lang='lat' dir='ltr'>&#39;rms</span> <span class='ocrx_word' id='word_1_3' title='bbox 981 3946 1122 3982; x_wconf 68' lang='lat' dir='ltr'><strong>mnussn·</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1139 3944 1271 3983; x_wconf 71' lang='lat' dir='ltr'>GUS&#39;PAVUS</span> <span class='ocrx_word' id='word_1_5' title='bbox 1288 3944 1396 3981; x_wconf 71' lang='lat' dir='ltr'><strong>scam.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 2064 5234">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 2064 5234">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 0 2064 5234; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 0 0 2064 5234; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
